@@ -1,0 +1,36 @@
+body{
+
+    margin: 25px;
+    padding: 0px;
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+    font-family:  sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: rgb(170, 241, 206);
+    
+}
+
+
+.b2{
+    display: block;
+   
+    border: 2px solid black;
+    margin: 25px;
+    padding: 25px;
+    background-color: aqua;
+    color: red;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.b2:hover{
+    background-color: rgb(19, 150, 150);
+}
+
+
+
